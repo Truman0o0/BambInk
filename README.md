@@ -9,6 +9,10 @@ git clone https://github.com/Truman0o0/BambInk.git
 cd BambInk
 ```
 
+## Data Presentation and Model Parameters
+- We provide a selection of results, including the original inputs and the enhanced model outputs, at the [link](https://drive.google.com/drive/folders/1-8aSNbFd5BKs0ZmNHY0dBxWj2PXGB9ea?usp=drive_link).
+- Furthermore, we have provided the optimal model [parameters](https://drive.google.com/drive/folders/1GvsHvcw-RwCF_Pi9iiPidcIzCva0frw7?usp=drive_link).
+
 ## DataFormat
 Make sure to put the files as the following structure:
 ```
