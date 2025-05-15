@@ -49,7 +49,7 @@ python test.py --dataroot path_dataset --size 256 --batchSize 4
 
 ## Comparison with other methods
 <p align="center">
-  <img src="imgs/Comparison.png"/>
+  <img src="imgs/Comparison.png" width="60%"/>
 </p>
 
 ## Visual comparison
