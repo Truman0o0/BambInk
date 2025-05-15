@@ -7,7 +7,7 @@
 
 ## Architecture
 <p align="center">
-  <img src="imgs/Architecture.png"/>
+  <img src="imgs/Architecture.png" width="80%"/>
 </p>
 
 ## Using the code:
