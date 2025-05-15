@@ -1,5 +1,4 @@
 # BambInk
-Official Pytorch Code base for "BambInk: Attention-CycleGAN for Ancient Manuscript Bamboo Slips Ink Enhancement".
 
 ## Using the code:
 The code is stable while using Python 3.8.3, PyTorch 1.13.0, CUDA =11.4.
