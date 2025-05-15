@@ -1,5 +1,15 @@
 # BambInk
 
+## Overall
+<p align="center">
+  <img src="imgs/Overall.png"/>
+</p>
+
+## Architecture
+<p align="center">
+  <img src="imgs/Architecture.png"/>
+</p>
+
 ## Using the code:
 The code is stable while using Python 3.8.3, PyTorch 1.13.0, CUDA =11.4.
 
@@ -36,3 +46,13 @@ python train.py --dataroot path_dataset --lr 0.0002 --n_epochs 100 --size 256 --
 ```
 python test.py --dataroot path_dataset --size 256 --batchSize 4
 ```
+
+## Comparison with other methods
+<p align="center">
+  <img src="imgs/Comparison.png"/>
+</p>
+
+## Visual comparison
+<p align="center">
+  <img src="imgs/Visual result.png"/>
+</p>
