@@ -57,6 +57,7 @@ python test.py --dataroot path_dataset --size 256 --batchSize 4
 <p align="center">
   <img src="imgs/Visual result.png"/>
 </p>
+
 - **b)**
 <p align="center">
   <img src="imgs/More visual comparison.png"/>
